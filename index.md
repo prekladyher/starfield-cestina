@@ -9,25 +9,36 @@ sidebar: false
 
 # Starfield – Čeština
 
-Starfield je první nový svět po více než 25 letech od Bethesda Game Studios, oceňovaných tvůrců her The Elder Scrolls V: Skyrim a Fallout 4. V tomto RPG nové generace zasazeném mezi hvězdy si vytvoříte libovolnou postavu a s jedinečnou svobodou se vydáte na epickou cestu za odpovědí na největší záhadu lidstva.
+<img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu">
 
-V roce 2330 se lidstvo vydalo mimo naši sluneční soustavu, osídluje nové planety a žije coby vesmírný národ. Vy se přidáte ke Constellation – k poslední skupině vesmírných objevitelů, kteří hledají vzácné artefakty po celé galaxii a budete zkoumat rozsáhlý vesmír v největší a nejambicióznější hře od Bethesda Game Studios.
+Vítej na oficiálním profilu fanouškovského překladu hry Starfield.
 
-## O překladu
+Na překladu stále pracujeme a věříme, že se nám podaří přinést kvalitní českou lokalizaci. Pokud máš zájem se na překladu podílet, podívej se na sekci [Přidej se k nám](#pridej-se-k-nam).
+
+Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na našem [facebookovém profilu](TODO) nebo na [Instagramu](TODO). Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítích.
+
+
+## Členové týmu
 
 **Team leader:** Palko  
-**Překladatelé:** Palko Flu nesuprachy Trex0pol SirGoodTeaCZ elfik42 Spid3rCZ Widl  
-**Korektura:** Majezar TheBJ  
-**Technika a systém překladu:** Flu Palko  
+**Překladatelé:** Palko, Flu, nesuprachy, Trex0pol, SirGoodTeaCZ, elfik42, Spid3rCZ, Widl  
+**Korektura:** Majezar, TheBJ  
+**Technika a systém překladu:** Flu, Palko  
 **Fonty:** Flu  
 **Grafika:** Luc2as  
 **PR překladu:** Paras  
 **Mediální partner:** ArcadeBulls
 
+
+## Přidej se k nám
+
+<img src="/we-want-you.jpg" alt="We want you" style="border-radius: 16px; max-width: 200px; margin: 0 auto;">
+
+Máš zájem si zkusit překladatelskou práci? Chceš si zlepšit angličtinu? Nebaví tě překlady spíchnuté horkou jehlou?
+
+Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](TODO) a my se ozveme.
+
+
 ## Podpora týmu
 
 Bude oznámena po splnění milníku překladu.
-
-## Nábor do týmu
-
-Pokud budete mít zájem přidat se na volnou pozici do týmu, vyplňte prosím Formulář (**TODO**). Hledáme překladatele, korektory a testery.

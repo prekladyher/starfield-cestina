@@ -9,6 +9,8 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/starfield-cestina/favicon.ico" }]
   ],
   themeConfig: {
+    darkModeSwitchLabel: "Vzhled",
+
     nav: [
       { text: "Úvod", link: "/" },
     ],
