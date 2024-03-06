@@ -15,7 +15,7 @@ Vítej na oficiálním profilu fanouškovského překladu hry Starfield.
 
 Na překladu stále pracujeme a věříme, že se nám podaří přinést kvalitní českou lokalizaci. Pokud máš zájem se na překladu podílet, podívej se na sekci [Přidej se k nám](#pridej-se-k-nam).
 
-Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na našem [facebookovém profilu](https://www.facebook.com/profile.php?id=61556872838453)<!-- nebo na [Instagramu](TODO)-->. Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítích.
+Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na našem [facebookovém profilu](https://www.facebook.com/profile.php?id=61556872838453) nebo na [Instagramu](https://www.instagram.com/starfield.cestina/). Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítích.
 
 
 ## Členové týmu
