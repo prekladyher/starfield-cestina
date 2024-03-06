@@ -47,11 +47,11 @@ Na překladu se podílejí následující lidé (v abecedním pořadí):
 
 ## Přidej se k nám
 
-<img src="/we-want-you.jpg" alt="We want you" style="border-radius: 16px; max-width: 200px; margin: 0 auto;">
-
 Máš zájem si zkusit překladatelskou práci? Chceš si zlepšit angličtinu? Nebaví tě překlady spíchnuté horkou jehlou?
 
-Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](https://forms.gle/xrNfKEQ5rYve9N938) a my se ozveme.
+<img src="/we-want-you.jpg" alt="We want you" style="border-radius: 16px; max-width: 200px; margin: 0 auto;">
+
+Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](https://forms.gle/u8Br18iB89UpXM9N8) a my se ti ozveme.
 
 
 ## Podpora týmu
