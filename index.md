@@ -36,7 +36,7 @@ Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na
 
 Máš zájem si zkusit překladatelskou práci? Chceš si zlepšit angličtinu? Nebaví tě překlady spíchnuté horkou jehlou?
 
-Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](TODO) a my se ozveme.
+Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](https://forms.gle/xrNfKEQ5rYve9N938) a my se ozveme.
 
 
 ## Podpora týmu
