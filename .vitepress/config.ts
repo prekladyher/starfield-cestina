@@ -39,6 +39,8 @@ export default defineConfig({
     },
 
     socialLinks: [
+      { icon: "facebook", link: "https://www.facebook.com/profile.php?id=61556872838453" },
+      { icon: "instagram", link: "https://www.instagram.com/starfield.cestina/" },
       { icon: "github", link: "https://github.com/prekladyher/starfield-preklad" }
     ]
   }
