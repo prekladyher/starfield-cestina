@@ -3,24 +3,31 @@ title: Starfield – Čeština
 sidebar: false
 ---
 <script setup lang="ts">
-const members = [
-  { name: "ArcadeBulls", role: "Mediální partner"},
-  { name: "AXEcz", role: "Překlad"},
-  { name: "Flu", role: "Technika, fonty"},
-  { name: "gallonwwalker", role: "Překlad"},
-  { name: "Honza", role: "Překlad"},
-  { name: "ItzDandaaa", role: "Překlad"},
-  { name: "Kristýna", role: "Překlad"},
-  { name: "Luc2as", role: "Grafika"},
-  { name: "Majezar", role: "Korektura"},
-  { name: "nesuprachy", role: "Překlad"},
-  { name: "Palko", role: "Vedení projektu"},
-  { name: "Paras", role: "PR"},
-  { name: "Spid3rCZ", role: "Překlad"},
-  { name: "TheBJ", role: "Korektura"},
-  { name: "Tomiket", role: "Překlad"},
-  { name: "Widl_CZ", role: "Překlad"},
-];
+const people = {
+  lead: [
+    { name: "Palko", role: "Vedení projektu"}
+  ],
+  l10n: [
+    { name: "AXEcz", role: "Překlad"},
+    { name: "gallonwwalker", role: "Překlad"},
+    { name: "Honza", role: "Překlad"},
+    { name: "ItzDandaaa", role: "Překlad"},
+    { name: "Kristýna", role: "Překlad"},
+    { name: "nesuprachy", role: "Překlad"},
+    { name: "Spid3rCZ", role: "Překlad"},
+    { name: "Tomiket", role: "Překlad"},
+    { name: "Widl_CZ", role: "Překlad"},
+    { name: "TheBJ", role: "Korektura"},
+  ],
+  support: [
+    { name: "Flu", role: "Technika, fonty"},
+    { name: "Luc2as", role: "Grafika"},
+    { name: "Paras", role: "PR"},
+  ],
+  partners: [
+    { name: "ArcadeBulls", role: "Mediální partner"}
+  ]
+};
 </script>
 
 <div style="border-radius: 16px; overflow: hidden; margin-bottom: 16px;">
@@ -35,14 +42,20 @@ Vítej na oficiálním profilu fanouškovského překladu hry Starfield.
 
 Na překladu stále pracujeme a věříme, že se nám podaří přinést kvalitní českou lokalizaci. Pokud máš zájem se na překladu podílet, podívej se na sekci [Přidej se k nám](#pridej-se-k-nam).
 
-Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na [Facebooku](https://www.facebook.com/profile.php?id=61556872838453) nebo na [Instagramu](https://www.instagram.com/starfield.cestina/). Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítích.
+Chceteš-li dostávat informace o průběhu překladu, můžeš nás sledovat na [Facebooku](https://www.facebook.com/profile.php?id=61556872838453) nebo na [Instagramu](https://www.instagram.com/starfield.cestina/). Pokud máš jakýkoliv dotaz, návrh nebo připomínku, neváhej nás kontaktovat na některé ze zmíněných sociálních sítí.
 
 
 ## Členové týmu
 
-Na překladu se podílejí následující lidé (v abecedním pořadí):
+Na překladu se podílejí následující lidé:
 
-<PTeamMembers :members />
+<PTeamMembers :members="people.lead" />
+
+<PTeamMembers :members="people.l10n" />
+
+<PTeamMembers :members="people.support" />
+
+<PTeamMembers :members="people.partners" />
 
 
 ## Přidej se k nám
@@ -51,7 +64,7 @@ Máš zájem si zkusit překladatelskou práci? Chceš si zlepšit angličtinu? 
 
 <img src="/we-want-you.jpg" alt="We want you" style="border-radius: 16px; max-width: 200px; margin: 0 auto;">
 
-Pojď přiložit ruku k dílu a pomož nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](https://forms.gle/u8Br18iB89UpXM9N8) a my se ti ozveme.
+Pojď přiložit ruku k dílu a pomoz nám přeložit Starfield do češtiny. Stačí vyplnit [náborový formulář](https://forms.gle/u8Br18iB89UpXM9N8) a my se ti ozveme.
 
 
 ## Podpora týmu
