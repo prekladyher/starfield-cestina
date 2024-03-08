@@ -49,7 +49,7 @@ Aby bylo možné překlad efektivně řídit, využíváme k tomu několik nást
 
 <PBlogFigure src="/02-github.png" title="Projekt překladu na GitHubu​" />
 
-Do lokalizačních soubrů máme vytažená metadata hry tak, aby překladatel viděl, co vlastně překládá:
+Do lokalizačních souborů máme vytažená metadata hry tak, aby překladatel viděl, co vlastně překládá:
 
 <PBlogFigure src="/02-gettext.png" title="Ukázka PO souboru s překladem​" />
 

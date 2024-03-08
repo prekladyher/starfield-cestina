@@ -23,6 +23,11 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/starfield-cestina/favicon.ico" }]
   ],
   themeConfig: {
+    docFooter: {
+      prev: 'Předchozí stránka',
+      next: 'Následující stránka'
+    },
+
     darkModeSwitchLabel: "Vzhled",
 
     nav: [
