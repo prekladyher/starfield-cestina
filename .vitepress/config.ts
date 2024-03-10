@@ -20,7 +20,7 @@ export default defineConfig({
   description: "Stránka fanouškovského překladu hry Starfield.",
   base: "/starfield-cestina/",
   head: [
-    ["link", { rel: "icon", href: "/starfield-cestina/favicon.ico" }]
+    ["link", { rel: "icon", href: "/starfield-cestina/favicon.ico" }],
   ],
   themeConfig: {
     docFooter: {

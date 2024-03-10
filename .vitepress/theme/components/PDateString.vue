@@ -2,7 +2,7 @@
 import { computed } from "vue";
 
 const props = defineProps<{
-    value: Date
+    value: string
 }>();
 
 const string = computed(() => {
