@@ -36,7 +36,11 @@ const people = {
 
 # Starfield – Čeština
 
-<img src="https://weblate.prekladyher.eu/widget/starfield/starfield/cs/svg-badge.svg" alt="Stav překladu">
+::: danger PŘEKLAD UKONČEN
+Více informací v [posledním příspěvku](/novinky/04-konec.html).
+:::
+
+
 
 Vítej na oficiálním profilu fanouškovského překladu hry Starfield.
 

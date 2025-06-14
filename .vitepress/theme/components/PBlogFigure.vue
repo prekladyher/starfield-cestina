@@ -3,13 +3,14 @@ import { withBase } from "vitepress";
 
 defineProps<{
   src: string,
-  title?: string
+  title?: string,
+  style: string,
 }>();
 </script>
 
 <template>
   <div class="figure">
-    <img :src="withBase(src)" :alt="title" class="image" />
+    <img :src="withBase(src)" :alt="title" class="image" :style />
     <div v-if="title" class="title">{{ title }}</div>
   </div>
 </template>
